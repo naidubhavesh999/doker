@@ -1,0 +1,6 @@
+numpy==1.19.5
+pandas==1.2.4
+streamlit==0.83.0
+tensorflow==2.5.0
+tensorflow-gpu==2.5.0
+
